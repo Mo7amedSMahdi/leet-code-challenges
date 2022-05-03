@@ -41,9 +41,12 @@ P='Command Args' npm test
 
 # list of solved challenges:
 
+<div align="center">
 | Index | Proplem          | Command Args for test |                          Link                           |
 | :---- | :--------------- | :-------------------- | :-----------------------------------------------------: |
 | 1     | Roman to Integer | romanToInt.js         | [Link](https://leetcode.com/problems/roman-to-integer/) |
+| 1     | Two Sum | twoSum.js         | [Link](https://leetcode.com/problems/two-sum/) |
+</div>
 
 ## Authors
 
