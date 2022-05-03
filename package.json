@@ -1,0 +1,23 @@
+{
+  "name": "leet-code-challenges",
+  "version": "1.0.0",
+  "description": "This is a simple repository that contains all the challenges I managed to solve on [leetcode](https://leetcode.com/)",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~8.2.1"
+  },
+  "scripts": {
+    "test": "mocha ./challenges/$P"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo7amedSMahdi/leet-code-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mo7amedSMahdi/leet-code-challenges/issues"
+  },
+  "homepage": "https://github.com/Mo7amedSMahdi/leet-code-challenges#readme"
+}
